@@ -1,4 +1,4 @@
-#THI MINH NGOC DAO - 131112
+
 class Customer:
     last_id = 0
 
